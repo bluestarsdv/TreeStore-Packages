@@ -9,7 +9,7 @@ Use isto pra fazer os apks
   <app:version number="1.0" />
   <app:icon archive="ic.png" />
   <app:permissions xmlns:ptree="http://treestore.setin.com/app/permissions">
-    <ptree:permissions permission="android.permission.READ_EXTERNAL_STORAGE" />
+    <ptree:permission permission="android.permission.READ_EXTERNAL_STORAGE" />
   </app:permissions>
 </app>
 ```
