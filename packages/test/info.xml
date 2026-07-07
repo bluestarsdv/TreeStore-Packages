@@ -1,8 +1,0 @@
-<app id="treestoreapps" xmlns:app="http://treestore.setin.com/app/key">
-  <app:name label="Teste" />
-  <app:version number="1.0" />
-  <app:icon archive="153 Sem Título_20260707132853.png" />
-  <app:permissions xmlns:ptree="http://treestore.setin.com/app/permissions">
-    
-  </app:permissions>
-</app>
